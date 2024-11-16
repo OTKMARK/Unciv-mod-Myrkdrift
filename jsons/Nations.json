@@ -21,7 +21,7 @@
         "innerColor": [144 ,147 ,196],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Free City",
+		"uniqueName": "Free City Banks",
 		"uniques": ["[+20 Gold] [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Myrkdrift","Braavos","Kvart","Felis","Pentos","Muiir","Astapor","Yunkai","Volantis","Eliria","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
