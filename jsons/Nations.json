@@ -22,7 +22,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free City",
-		"uniques": ["[+100]% Gold from each Trade Route", "[-50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+20 Gold] [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Myrkdrift","Braavos","Kvart","Felis","Pentos","Muiir","Astapor","Yunkai","Volantis","Eliria","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
